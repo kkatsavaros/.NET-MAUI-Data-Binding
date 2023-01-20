@@ -1,4 +1,4 @@
-.NET MAUI Data Binding
+.NET MAUI Data Binding with C#
 
 
 With that app we use Data Binding to send property from an object to a label.
